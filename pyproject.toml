@@ -1,0 +1,6 @@
+[project]
+name = "trek-clearance"
+version = "0.1.0"
+description = "高海拔徒步队伍放行的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
